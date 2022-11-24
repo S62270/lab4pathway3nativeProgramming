@@ -1,0 +1,552 @@
+11-24 11:00:41.649 18665 18686 I TestRunner: started: clicking_vertical_list_button_displays_vertical_list(com.example.dogglers.ButtonTests)
+11-24 11:00:41.653 18665 18686 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-24 11:00:41.655   440   466 W TransactionTracing: Could not find layer handle 0x785a4be60790
+11-24 11:00:41.655   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5f7d0
+11-24 11:00:41.655   440   466 W TransactionTracing: Could not find layer handle 0x785a4be64cf0
+11-24 11:00:41.655   440   466 W TransactionTracing: Could not find layer handle 0x785a4be62c50
+11-24 11:00:41.658   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.674   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.684   784   894 D SplashScreenView: Build android.window.SplashScreenView{99734b9 V.E...... ......ID 0,0-0,0}
+11-24 11:00:41.684   784   894 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-24 11:00:41.684   784   894 D SplashScreenView: Branding: view: android.view.View{78800fe G.ED..... ......I. 0,0-0,0 #10204d9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-24 11:00:41.689   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.691 16023 16023 V ClearcutMetricXmitter: Transmission is done.
+11-24 11:00:41.699 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: PRE_ON_CREATE
+11-24 11:00:41.700 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:41.705   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.712 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: CREATED
+11-24 11:00:41.713   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e5c20000 0x3e6a30000]
+11-24 11:00:41.713 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:41.714 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: STARTED
+11-24 11:00:41.714 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:41.720   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3ea520000 0x3eb330000]
+11-24 11:00:41.723   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e8000000 0x3e8e10000]
+11-24 11:00:41.726   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.732   784   923 W Parcel  : Expecting binder but got null!
+11-24 11:00:41.734 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: RESUMED
+11-24 11:00:41.736 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:41.739 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: PAUSED
+11-24 11:00:41.739   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.741 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:41.749   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e3210000 0x3e3b10000]
+11-24 11:00:41.757   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.765 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: PRE_ON_CREATE
+11-24 11:00:41.765 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-24 11:00:41.765 18665 18673 I xample.dogglers: Compiler allocated 4160KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+11-24 11:00:41.772   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.787 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: CREATED
+11-24 11:00:41.788 18665 18665 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@982600e
+11-24 11:00:41.790 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: STARTED
+11-24 11:00:41.790   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.791 18665 18665 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@982600e
+11-24 11:00:41.792 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: RESUMED
+11-24 11:00:41.792 18665 18665 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@982600e
+11-24 11:00:41.806   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.815   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e8e10000 0x3e9c20000]
+11-24 11:00:41.821   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ece10000]
+11-24 11:00:41.822   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3ece10000 0x3edc20000]
+11-24 11:00:41.825   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.835 18665 18688 W Parcel  : Expecting binder but got null!
+11-24 11:00:41.838   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5c110
+11-24 11:00:41.838   440   466 W TransactionTracing: Could not find layer handle 0x785a4be626b0
+11-24 11:00:41.840   595   616 W ziparchive: Unable to open '/data/app/~~SJCoIFLxjoN5pPIsT9Ig6Q==/com.example.dogglers-5Vozrt0N9MireI_6O5SVCA==/base.dm': No such file or directory
+11-24 11:00:41.841   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.844   595   616 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +173ms
+11-24 11:00:41.845 18665 18665 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+11-24 11:00:41.859   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.863  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-24 11:00:41.864  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-24 11:00:41.865  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+11-24 11:00:41.866  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-24 11:00:41.872   440   466 W TransactionTracing: Could not find layer handle 0x785a4be62ef0
+11-24 11:00:41.874   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.891   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.893 18665 18665 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231200/com.example.dogglers:id/vertical_btn>
+11-24 11:00:41.895  1157  1157 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1209.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=10116841, downTime=10116841, deviceId=-1, source=0x1002, displayId=0, eventId=-613154056 }
+11-24 11:00:41.896 18665 18665 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+11-24 11:00:41.906   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.923   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.935  1157  1157 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1209.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=10116881, downTime=10116841, deviceId=-1, source=0x1002, displayId=0, eventId=-86950097 }
+11-24 11:00:41.940   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.949 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: PAUSED
+11-24 11:00:41.950 18665 18665 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@982600e
+11-24 11:00:41.957   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.966 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: PRE_ON_CREATE
+11-24 11:00:41.966 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:41.973   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:41.983 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: CREATED
+11-24 11:00:41.983 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:41.985 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: STARTED
+11-24 11:00:41.985 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:41.986 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: RESUMED
+11-24 11:00:41.986 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:41.991   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.008   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.010   784   923 D EGL_emulation: app_time_stats: avg=16.46ms min=2.07ms max=46.41ms count=55
+11-24 11:00:42.011   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3edc20000 0x3eea30000]
+11-24 11:00:42.016   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3f22b0000 0x3f30c0000]
+11-24 11:00:42.019   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3f0f8c000 0x3f1d9c000]
+11-24 11:00:42.025   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.029 18665 18688 W Parcel  : Expecting binder but got null!
+11-24 11:00:42.040   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.045   595   616 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +102ms
+11-24 11:00:42.056   400   450 D goldfish-address-space: claimShared: Ask to claim region [0x3e3c36000 0x3e3c39000]
+11-24 11:00:42.057   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e3c39000 0x3e3c3c000]
+11-24 11:00:42.060   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.073   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.089   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.106   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.123   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.128   595  2173 W InputManager-JNI: Input channel object '50f966d Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+11-24 11:00:42.143   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.157   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.157  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-24 11:00:42.160  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-24 11:00:42.160  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+11-24 11:00:42.161  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-24 11:00:42.173   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.190   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.207   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.225   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.239   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.256   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.261 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: STOPPED
+11-24 11:00:42.262 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:42.272   440   466 W TransactionTracing: Could not find layer handle 0x785a4be64270
+11-24 11:00:42.272   440   466 W TransactionTracing: Could not find layer handle 0x785a4be63490
+11-24 11:00:42.272   440   466 W TransactionTracing: Could not find layer handle 0x785a4be55e70
+11-24 11:00:42.272   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.272   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.273   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.274 18665 18688 D OpenGLRenderer: endAllActiveAnimators on 0x742479b32b80 (RippleDrawable) with handle 0x742389b1bce0
+11-24 11:00:42.291   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.304   440   466 W TransactionTracing: Could not find layer handle 0x785a4be653b0
+11-24 11:00:42.307   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.323   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.340   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.355   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.357   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.365 18665 18665 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231202/com.example.dogglers:id/vertical_recycler_view>
+11-24 11:00:42.372   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.376 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: PAUSED
+11-24 11:00:42.376 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:42.383 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: PRE_ON_CREATE
+11-24 11:00:42.384 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.391 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: CREATED
+11-24 11:00:42.391   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.391 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.392 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: STARTED
+11-24 11:00:42.393 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.396 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: RESUMED
+11-24 11:00:42.396 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.407   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.415   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e0000000 0x3e0e10000]
+11-24 11:00:42.420   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.421   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.421   440   466 W TransactionTracing: Could not find layer id -1
+11-24 11:00:42.423   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e4000000 0x3e4e10000]
+11-24 11:00:42.423   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.424   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e4e10000 0x3e5c20000]
+11-24 11:00:42.429 18665 18688 W Parcel  : Expecting binder but got null!
+11-24 11:00:42.432   595   616 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +62ms
+11-24 11:00:42.436   440   466 W TransactionTracing: Could not find layer handle 0x785a4be601f0
+11-24 11:00:42.438   440   466 W TransactionTracing: Could not find layer handle 0x785a4be59e30
+11-24 11:00:42.439   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.445 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: PAUSED
+11-24 11:00:42.446 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.452 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c in: DESTROYED
+11-24 11:00:42.452 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9cf640c
+11-24 11:00:42.456   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.457  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-24 11:00:42.458  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-24 11:00:42.459  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+11-24 11:00:42.459  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-24 11:00:42.463 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: PRE_ON_CREATE
+11-24 11:00:42.463 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.468 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: CREATED
+11-24 11:00:42.468 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.469 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: STARTED
+11-24 11:00:42.469 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.472 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: RESUMED
+11-24 11:00:42.473 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.473   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.489   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e5c20000 0x3e6a30000]
+11-24 11:00:42.491   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.493   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e8000000 0x3e8e10000]
+11-24 11:00:42.495   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3ea520000 0x3eb330000]
+11-24 11:00:42.497 18665 18688 W Parcel  : Expecting binder but got null!
+11-24 11:00:42.501   595   616 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +66ms
+11-24 11:00:42.506   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.523   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.525 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: STOPPED
+11-24 11:00:42.526 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.529   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e4000000 0x3e4900000]
+11-24 11:00:42.538   440   466 W TransactionTracing: Could not find layer handle 0x785a4be579d0
+11-24 11:00:42.538   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5e630
+11-24 11:00:42.538   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5db50
+11-24 11:00:42.539   440   466 W TransactionTracing: Could not find layer handle 0x785a4be60a90
+11-24 11:00:42.539   440   466 W TransactionTracing: Could not find layer handle 0x785a4be664f0
+11-24 11:00:42.539   440   466 W TransactionTracing: Could not find layer handle 0x785a4be624d0
+11-24 11:00:42.540   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.540  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-24 11:00:42.541  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-24 11:00:42.542  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+11-24 11:00:42.545  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-24 11:00:42.548 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: STOPPED
+11-24 11:00:42.549 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:42.551   595  1722 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=10117490 mSleepTimeMs=0 mIdleTimeMs=9373992 mActivityStatsTechSpecificInfo=[{mRat=UNKNOWN,mFrequencyRange=UNKNOWN,mTxTimeMs[]=[0, 0, 0, 0, 0],mRxTimeMs=0}]}
+11-24 11:00:42.555 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: STOPPED
+11-24 11:00:42.555 18665 18665 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@982600e
+11-24 11:00:42.556   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.557 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@982600e in: DESTROYED
+11-24 11:00:42.557 18665 18665 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+11-24 11:00:42.559   595  1722 W InputManager-JNI: Input channel object '57fc738 com.example.dogglers/com.example.dogglers.MainActivity (client)' was disposed without first being removed with the input manager!
+11-24 11:00:42.566 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716 in: DESTROYED
+11-24 11:00:42.567 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3f47716
+11-24 11:00:42.568   595  2168 W InputManager-JNI: Input channel object '6e74fa4 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+11-24 11:00:42.569   440   466 W TransactionTracing: Could not find layer handle 0x785a4be63f70
+11-24 11:00:42.570   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5ef90
+11-24 11:00:42.573   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.576 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: PAUSED
+11-24 11:00:42.576 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.587   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5ee70
+11-24 11:00:42.587   440   466 W TransactionTracing: Could not find layer handle 0x785a4be60c70
+11-24 11:00:42.587   440   466 W TransactionTracing: Could not find layer handle 0x785a4be62830
+11-24 11:00:42.587   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5ee10
+11-24 11:00:42.587   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5ee70
+11-24 11:00:42.590   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.598 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: RESTARTED
+11-24 11:00:42.598 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:42.599 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: STARTED
+11-24 11:00:42.599 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:42.600 18665 18665 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ba0c019 in: RESUMED
+11-24 11:00:42.600 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.VerticalListActivity }, activity=com.example.dogglers.VerticalListActivity@ba0c019
+11-24 11:00:42.606   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.612   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e0000000 0x3e0e10000]
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10167 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.617   595   635 W CpuPowerCalculator: UID 10165 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10163 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10163 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.618   595   635 W CpuPowerCalculator: UID 10163 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.619   595   635 W CpuPowerCalculator: UID 10163 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.619   595   635 W CpuPowerCalculator: UID 10163 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.619   595   635 W CpuPowerCalculator: UID 10162 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.619   595   635 W CpuPowerCalculator: UID 10162 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.619   595   635 W CpuPowerCalculator: UID 10162 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.623   595   635 W CpuPowerCalculator: UID 10162 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.624   595   635 W CpuPowerCalculator: UID 10161 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.624   595   635 W CpuPowerCalculator: UID 10161 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.625   595   635 W CpuPowerCalculator: UID 10161 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.625   595   635 W CpuPowerCalculator: UID 10161 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.625   595   635 W CpuPowerCalculator: UID 10161 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.625   595   635 W CpuPowerCalculator: UID 10161 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10160 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10160 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10159 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10159 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10159 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10159 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10155 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.626   595   635 W CpuPowerCalculator: UID 10155 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10155 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10155 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.627   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e4900000 0x3e5710000]
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10153 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10153 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10153 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.627   595   635 W CpuPowerCalculator: UID 10153 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10150 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.628   595   635 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10139 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10138 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10135 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10135 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10135 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10135 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.629   595   635 W CpuPowerCalculator: UID 10135 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10134 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10134 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10134 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10134 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10132 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   400   498 D goldfish-address-space: claimShared: Ask to claim region [0x3e8e10000 0x3e9c20000]
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.630   595   635 W CpuPowerCalculator: UID 10128 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.631   595   635 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.631   595   635 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.631   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.631   595   635 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.631   595   635 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.631   595   635 W CpuPowerCalculator: UID 10127 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.635   595   635 W CpuPowerCalculator: UID 10127 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.635   595   635 W CpuPowerCalculator: UID 10127 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.635   595   635 W CpuPowerCalculator: UID 10127 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.635   595   635 W CpuPowerCalculator: UID 10126 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.635   595   635 W CpuPowerCalculator: UID 10126 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.636   595   635 W CpuPowerCalculator: UID 10126 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.636   595   635 W CpuPowerCalculator: UID 10126 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.636   595   635 W CpuPowerCalculator: UID 10125 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.636   595   635 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.639   595   635 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.639   595   635 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.639   595   635 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.639   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.639   595   635 W CpuPowerCalculator: UID 10123 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.639   595   635 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.640   595   635 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.641   595   635 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10119 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10118 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10118 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10118 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10118 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10117 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10117 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10117 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.642   595   635 W CpuPowerCalculator: UID 10117 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.644   595   635 W CpuPowerCalculator: UID 10117 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.644   595   635 W CpuPowerCalculator: UID 10117 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.644   595   635 W CpuPowerCalculator: UID 10116 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.644   595   635 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10115 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.645   595   635 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.646   595   635 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.646   595   635 W CpuPowerCalculator: UID 10114 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.646   595   635 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10113 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.647   595   635 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.648   595   635 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.648   595   635 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.648   595   635 W CpuPowerCalculator: UID 10111 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.648   595   635 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10109 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10109 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10109 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10109 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10108 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.649   595   635 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10104 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.650   595   635 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.651   595   635 W CpuPowerCalculator: UID 10102 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.652   595   635 W CpuPowerCalculator: UID 10101 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.654   440   466 W TransactionTracing: Could not find layer handle 0x785a4be5f050
+11-24 11:00:42.654   440   466 W TransactionTracing: Could not find layer handle 0x785a4be605b0
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10100 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10100 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10100 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10100 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10099 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.658   595   635 W CpuPowerCalculator: UID 10099 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.659   595   635 W CpuPowerCalculator: UID 10099 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.659   595   635 W CpuPowerCalculator: UID 10099 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.659   595   635 W CpuPowerCalculator: UID 10099 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.659   595   635 W CpuPowerCalculator: UID 10098 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.659   595   635 W CpuPowerCalculator: UID 10098 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10098 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10098 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10097 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10097 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10097 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10097 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10096 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10096 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10096 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.660   595   635 W CpuPowerCalculator: UID 10096 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.661   595   635 W CpuPowerCalculator: UID 10096 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.661   595   635 W CpuPowerCalculator: UID 10096 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.661   595   635 W CpuPowerCalculator: UID 10095 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.661   595   635 W CpuPowerCalculator: UID 10095 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.661   595   635 W CpuPowerCalculator: UID 10095 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10095 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10095 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10094 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10092 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10092 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.662   595   635 W CpuPowerCalculator: UID 10092 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10092 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10091 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10091 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10091 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10091 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10090 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.663   595   635 W CpuPowerCalculator: UID 10090 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10090 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10090 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10090 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10089 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10089 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10089 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10089 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10074 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.664 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: STOPPED
+11-24 11:00:42.664   595   635 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10067 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10067 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10067 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10067 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10063 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10063 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10063 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10063 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10061 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10061 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10061 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10061 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.665   595   635 W CpuPowerCalculator: UID 10061 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.666   595   635 W CpuPowerCalculator: UID 10060 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.666   595   635 W CpuPowerCalculator: UID 10060 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.666   595   635 W CpuPowerCalculator: UID 10060 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.666 18665 18665 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587 in: DESTROYED
+11-24 11:00:42.666   595   635 W CpuPowerCalculator: UID 10060 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.666   595   635 W CpuPowerCalculator: UID 10060 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.667 18665 18665 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@b45d587
+11-24 11:00:42.667   595   635 W CpuPowerCalculator: UID 10060 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.667   595   635 W CpuPowerCalculator: UID 10059 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.667   595   635 W CpuPowerCalculator: UID 10059 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.667   595   635 W CpuPowerCalculator: UID 10059 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.668   595   635 W CpuPowerCalculator: UID 10059 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.668   595   635 W CpuPowerCalculator: UID 10057 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.668   595   635 W CpuPowerCalculator: UID 10057 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.669   595   635 W CpuPowerCalculator: UID 10057 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.669   595   635 W CpuPowerCalculator: UID 10057 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.669   595   635 W CpuPowerCalculator: UID 10057 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.669   595   635 W CpuPowerCalculator: UID 9999 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.669   595   635 W CpuPowerCalculator: UID 9999 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.671   595  2168 W InputManager-JNI: Input channel object '25e9f6c com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+11-24 11:00:42.672   595   635 W CpuPowerCalculator: UID 2000 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.672   595   635 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.672   401   490 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-24 11:00:42.672   595   635 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.673   595   635 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.673   595   635 W CpuPowerCalculator: UID 1073 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.673   595   635 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.673   595   635 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.674   595   635 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.674   595   635 W CpuPowerCalculator: UID 1072 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.674   595   635 W CpuPowerCalculator: UID 1072 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.674   595   635 W CpuPowerCalculator: UID 1069 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.675   595   635 W CpuPowerCalculator: UID 1069 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.675   595   635 W CpuPowerCalculator: UID 1068 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.675   595   635 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.675   595   635 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.676   595   635 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.676   595   635 W CpuPowerCalculator: UID 1067 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.676   595   635 W CpuPowerCalculator: UID 1067 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.676   595   635 W CpuPowerCalculator: UID 1066 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.676   595   635 W CpuPowerCalculator: UID 1066 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1058 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1058 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1053 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1053 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1047 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.677   595   635 W CpuPowerCalculator: UID 1047 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1046 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1046 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1041 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1041 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1040 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1040 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1036 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1036 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1021 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1021 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1020 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.679   595   635 W CpuPowerCalculator: UID 1020 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1019 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.680  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1019 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1017 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.680  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1017 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1013 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1013 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.680  1452  1452 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-24 11:00:42.680   595   635 W CpuPowerCalculator: UID 1010 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1010 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1003 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1003 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1002 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1001 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.681   595   635 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 1000 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 0 CPU cluster # mismatch: Power Profile # 2 actual # 4
+11-24 11:00:42.682   595   635 W CpuPowerCalculator: UID 0 CPU freq # mismatch: Power Profile # 2 actual # 8
+11-24 11:00:42.690 18665 18686 I TestRunner: finished: clicking_vertical_list_button_displays_vertical_list(com.example.dogglers.ButtonTests)
